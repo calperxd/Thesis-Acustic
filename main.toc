@@ -1,0 +1,86 @@
+\changetocdepth {4}
+\changetocdepth {50}
+\babel@toc {brazil}{}\relax
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {Introdução}}{19}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Considerações iniciais}{19}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Objetivos}{19}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Objetivo geral}{19}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Objetivos específicos (opcional)}{20}{subsection.1.2.2}%
+\contentsline {section}{\numberline {1.3}Justificativa}{20}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Estrutura do trabalho}{21}{section.1.4}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Referencial te\'orico}}{22}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Observações sobre a citações}{23}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Citações}{23}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Ilustrações, quadros e tabelas}{24}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Códigos fonte e algoritmos}{28}{subsection.2.1.3}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Trabalhos Relacionados}}{30}{chapter.3}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Materiais e Métodos}}{31}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Materiais}{31}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Métodos}{31}{section.4.2}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Resultados}}{33}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Escopo do sistema}{33}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Modelagem do sistema}{34}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Apresentação do sistema}{34}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Implementação do sistema}{34}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Discussões (opcional)}{36}{section.5.5}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase {Informações e Exemplos de Utilização deste Modelo}}{37}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Título da seção secundária}{38}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Título da seção terciária}{38}{subsection.6.1.1}%
+\contentsline {subsubsection}{\numberline {6.1.1.1}Título da seção quartenária}{39}{subsubsection.6.1.1.1}%
+\contentsline {section}{\numberline {6.2}Exemplo de título de seção secundária com um texto muito longo que pode ocupar mais de uma linha}{39}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Elementos pré-textuais}{39}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Regras gerais de apresentação}{40}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}Espaçamento}{41}{subsection.6.4.1}%
+\contentsline {subsection}{\numberline {6.4.2}Exemplo de quantidades de subseções}{42}{subsection.6.4.2}%
+\contentsline {section}{\numberline {6.5}Enumerações: alíneas e subalíneas}{42}{section.6.5}%
+\contentsline {section}{\numberline {6.6}Citações}{43}{section.6.6}%
+\contentsline {subsection}{\numberline {6.6.1}Programas úteis para citações}{44}{subsection.6.6.1}%
+\contentsline {subsection}{\numberline {6.6.2}Citações diretas}{45}{subsection.6.6.2}%
+\babel@toc {english}{}\relax
+\babel@toc {brazil}{}\relax
+\contentsline {section}{\numberline {6.7}Equações}{45}{section.6.7}%
+\contentsline {section}{\numberline {6.8}Algoritmos}{46}{section.6.8}%
+\contentsline {section}{\numberline {6.9}Ilustrações}{47}{section.6.9}%
+\contentsline {subsection}{\numberline {6.9.1}Figuras}{47}{subsection.6.9.1}%
+\contentsline {subsection}{\numberline {6.9.2}Fotografias}{47}{subsection.6.9.2}%
+\contentsline {subsection}{\numberline {6.9.3}Gráficos}{48}{subsection.6.9.3}%
+\contentsline {subsection}{\numberline {6.9.4}Quadros}{49}{subsection.6.9.4}%
+\contentsline {section}{\numberline {6.10}Tabelas}{50}{section.6.10}%
+\contentsline {section}{\numberline {6.11}Abreviaturas e siglas}{53}{section.6.11}%
+\contentsline {section}{\numberline {6.12}Símbolos}{53}{section.6.12}%
+\contentsline {section}{\numberline {6.13}Inclusão de outros arquivos}{54}{section.6.13}%
+\contentsline {section}{\numberline {6.14}Referências}{54}{section.6.14}%
+\contentsline {section}{\numberline {6.15}Glossário}{55}{section.6.15}%
+\contentsline {section}{\numberline {6.16}Apêndices e anexos}{56}{section.6.16}%
+\contentsline {section}{\numberline {6.17}Índice remissivo}{56}{section.6.17}%
+\contentsline {section}{\numberline {6.18}Compilação do documento latex}{56}{section.6.18}%
+\contentsline {subsection}{\numberline {6.18.1}Problemas de compilação}{57}{subsection.6.18.1}%
+\contentsline {section}{\numberline {6.19}Licença}{58}{section.6.19}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {7}\MakeTextUppercase {Conclusão}}{59}{chapter.7}%
+\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {Título do Apêndice A com um Texto Muito Longo que Pode Ocupar Mais de uma Linha}}{61}{appendix.A}%
+\vspace {\cftbeforechapterskip }
+\renewcommand *{\cftappendixname }{AP\^ENDICE \space }
+\contentsline {appendix}{\chapternumberline {B}\MakeTextUppercase {Orçamentos dos Materiais para Montagem da Bancada Experimental}}{63}{appendix.B}%
+\cftinsert {AAA}
+\renewcommand *{\cftappendixname }{ANEXO \space }
+\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {Direitos Autorais - Lei N.\textsuperscript {o} 9.610, de 19 de Fevereiro de 1998: Disposições Preliminares}}{65}{anexo.anexochapback.1}%
+\cftinsert {AAA}
+\renewcommand *{\cftappendixname }{ANEXO \space }
+\contentsline {appendix}{\chapternumberline {B}\MakeTextUppercase {Normas para Elaboração de Trabalhos Acadêmicos}}{68}{anexo.anexochapback.2}%

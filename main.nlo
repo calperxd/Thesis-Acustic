@@ -1,0 +1,17 @@
+\nomenclatureentry{AA$A$@[{$A$}]\begingroup Área \nomunit{m^2}\nomeqref {2}|nompageref}{54}
+\nomenclatureentry{AL$L$@[{$L$}]\begingroup Comprimento \nomunit {m}\nomeqref {2}|nompageref}{54}
+\nomenclatureentry{AR$R$@[{$R$}]\begingroup Raio \nomunit {m}\nomeqref {2}|nompageref}{54}
+\nomenclatureentry{Bmu$\mu$@[{$\mu$}]\begingroup Viscosidade dinâmica \nomunit{kg/(m.s)}\nomeqref {2}|nompageref}{54}
+\nomenclatureentry{Bnu$\nu $@[{$\nu $}]\begingroup Viscosidade cinemática \nomunit {m^2/s}\nomeqref {2}|nompageref}{54}
+\nomenclatureentry{Bpi$\pi $@[{$\pi $}]\begingroup Pi (constante circular) \nomunit {rad}\nomeqref {2}|nompageref}{54}
+\nomenclatureentry{Brho$\rho $@[{$\rho $}]\begingroup Massa específica \nomunit {kg/m^3}\nomeqref {2}|nompageref}{54}
+\nomenclatureentry{Bsigma$\sigma $@[{$\sigma $}]\begingroup Tensão superficial \nomunit {N/m}\nomeqref {2}|nompageref}{54}
+\nomenclatureentry{C+$+$@[{$+$}]\begingroup Passo de tempo posterior\nomeqref {2}|nompageref}{54}
+\nomenclatureentry{C-$-$@[{$-$}]\begingroup Passo de tempo anterior \nomunit {}\nomeqref {2}|nompageref}{54}
+\nomenclatureentry{C0$0$@[{$0$}]\begingroup Valor inicial \nomunit {}\nomeqref {2}|nompageref}{54}
+\nomenclatureentry{DG$G$@[{$G$}]\begingroup Fase gasosa\nomeqref {2}|nompageref}{54}
+\nomenclatureentry{DL$L$@[{$L$}]\begingroup Fase líquida \nomunit {}\nomeqref {2}|nompageref}{54}
+\nomenclatureentry{DS$S$@[{$S$}]\begingroup Fase sólida \nomunit {}\nomeqref {2}|nompageref}{54}
+\nomenclatureentry{EPsi_1$\overline{\Psi}$@[{$\overline{\Psi}$}]\begingroup Média temporal\nomeqref {2}|nompageref}{54}
+\nomenclatureentry{EPsi_2$\langle \Psi \rangle $@[{$\langle \Psi \rangle $}]\begingroup Média na seção transversal \nomunit {}\nomeqref {2}|nompageref}{54}
+\nomenclatureentry{EPsi_3$\langle \langle \Psi \rangle \rangle $@[{$\langle \langle \Psi \rangle \rangle $}]\begingroup Média na seção transversal ponderada \nomunit {}\nomeqref {2}|nompageref}{54}

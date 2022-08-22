@@ -1,0 +1,26 @@
+
+\begin{thenomenclature} 
+\nomgroup{A}
+  \item [{$A$}]\begingroup Área \nomunit{m^2}\nomeqref {2}\nompageref{54}
+  \item [{$L$}]\begingroup Comprimento \nomunit {m}\nomeqref {2}\nompageref{54}
+  \item [{$R$}]\begingroup Raio \nomunit {m}\nomeqref {2}\nompageref{54}
+\nomgroup{B}
+  \item [{$\mu$}]\begingroup Viscosidade dinâmica \nomunit{kg/(m.s)}\nomeqref {2}\nompageref{54}
+  \item [{$\nu $}]\begingroup Viscosidade cinemática \nomunit {m^2/s}\nomeqref {2}\nompageref{54}
+  \item [{$\pi $}]\begingroup Pi (constante circular) \nomunit {rad}\nomeqref {2}\nompageref{54}
+  \item [{$\rho $}]\begingroup Massa específica \nomunit {kg/m^3}\nomeqref {2}\nompageref{54}
+  \item [{$\sigma $}]\begingroup Tensão superficial \nomunit {N/m}\nomeqref {2}\nompageref{54}
+\nomgroup{C}
+  \item [{$+$}]\begingroup Passo de tempo posterior\nomeqref {2}\nompageref{54}
+  \item [{$-$}]\begingroup Passo de tempo anterior \nomunit {}\nomeqref {2}\nompageref{54}
+  \item [{$0$}]\begingroup Valor inicial \nomunit {}\nomeqref {2}\nompageref{54}
+\nomgroup{D}
+  \item [{$G$}]\begingroup Fase gasosa\nomeqref {2}\nompageref{54}
+  \item [{$L$}]\begingroup Fase líquida \nomunit {}\nomeqref {2}\nompageref{54}
+  \item [{$S$}]\begingroup Fase sólida \nomunit {}\nomeqref {2}\nompageref{54}
+\nomgroup{E}
+  \item [{$\overline{\Psi}$}]\begingroup Média temporal\nomeqref {2}\nompageref{54}
+  \item [{$\langle \Psi \rangle $}]\begingroup Média na seção transversal \nomunit {}\nomeqref {2}\nompageref{54}
+  \item [{$\langle \langle \Psi \rangle \rangle $}]\begingroup Média na seção transversal ponderada \nomunit {}\nomeqref {2}\nompageref{54}
+
+\end{thenomenclature}
